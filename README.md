@@ -10,7 +10,7 @@ Olá, eu sou o **Samuel**
 - **Back-end:** Node.js, PHP, Java
 - **Banco de dados:** SQL, Postgres
 
-** Projetos em destaque**
+**Projetos em destaque**
 
 - [Projeto2P](https://github.com/samuelsafe/Projeto2P) — Sistema desenvolvido para a disciplina de Desenvolvimento Web (PHP)
 - [Api-de-agendamentos](https://github.com/samuelsafe/Api-de-agendamentos) — API para gerenciamento de agendamentos (Java)
