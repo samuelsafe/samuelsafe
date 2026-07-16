@@ -8,7 +8,7 @@ Olá, eu sou o Samuel 👋
 
 - **Front-end:** HTML, CSS, JavaScript
 - **Back-end:** Node.js, PHP, Java
-- **Banco de dados:** SQL
+- **Banco de dados:** SQL, Postgres
 
 📌 Projetos em destaque
 
