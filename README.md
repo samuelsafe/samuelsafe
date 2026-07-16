@@ -1,16 +1,21 @@
-## Hi there 👋
+Olá, eu sou o Samuel 👋
 
-<!--
-**samuelsafe/samuelsafe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação (3º/8º período)
+🚀 Full Stack Dev Jr. em formação
+🔎 Buscando oportunidade de estágio na área de programação
 
-Here are some ideas to get you started:
+🛠️ Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Front-end:** HTML, CSS, JavaScript
+- **Back-end:** Node.js, PHP, Java
+- **Banco de dados:** SQL
+
+📌 Projetos em destaque
+
+- [Projeto2P](https://github.com/samuelsafe/Projeto2P) — Sistema desenvolvido para a disciplina de Desenvolvimento Web (PHP)
+- [Api-de-agendamentos](https://github.com/samuelsafe/Api-de-agendamentos) — API para gerenciamento de agendamentos (Java)
+- [Estudos_Java](https://github.com/samuelsafe/Estudos_Java) — Repositório de estudos e exercícios em Java
+
+📫 Como me encontrar
+
+- Instagram: [@samuelsafe_dev](https://www.instagram.com/samuelsafe_dev/)
