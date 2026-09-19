@@ -1,6 +1,6 @@
 # Olá, eu sou o Samuel
 
-🎓 Estudante de Ciência da Computação (3º/8º período)
+🎓 Estudante de Engenharia de Software (3º/8º período)
 🚀 Full Stack Dev Jr. em formação
 🔎 Buscando oportunidade de estágio na área de programação
 
@@ -21,3 +21,4 @@
 ## 📫 Como me encontrar
 
 - Instagram: [@samuelsafe_dev](https://www.instagram.com/samuelsafe_dev/)
+- LinkedIn: [samuelsafe](https://www.linkedin.com/in/samuelsafe/)
