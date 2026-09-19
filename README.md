@@ -1,16 +1,15 @@
 # Olá, eu sou o Samuel
 
-🎓 Estudante de Engenharia de Software (3º/8º período)
-🚀 Full Stack Dev Jr. em formação
-🔎 Buscando oportunidade de estágio na área de programação
+ Estudante de Engenharia de Software (3º/8º período)
+ Back-end Dev em formação
+ Buscando oportunidade de estágio na área de programação
 
-## 🛠️ Stack
+##  Stack
 
-- **Front-end:** HTML, CSS, JavaScript
 - **Back-end:** Node.js, PHP, Java
 - **Banco de dados:** SQL, Postgres
 
-## 📌 Projetos em destaque
+##  Projetos em destaque
 
 - **[Projeto2P](https://github.com/samuelsafe/Projeto2P)** — Sistema web em PHP desenvolvido para a disciplina de Desenvolvimento Web (biblioteca digital com cadastro de livros e usuários)
 - **[Api-de-agendamentos](https://github.com/samuelsafe/Api-de-agendamentos)** — API REST em Java para gerenciamento de agendamentos: cadastro, consulta e controle de horários
@@ -18,7 +17,7 @@
 - **[PrimeiraPagina](https://github.com/samuelsafe/PrimeiraPagina)** — Projeto de estudos em HTML e CSS, prática de estruturação de páginas e estilização
 - **[Midnigh-Chapters](https://github.com/samuelsafe/Midnigh-Chapters)** — Projeto web em HTML *(ajustar com a descrição real do projeto)*
 
-## 📫 Como me encontrar
+##  Como me encontrar
 
 - Instagram: [@samuelsafe_dev](https://www.instagram.com/samuelsafe_dev/)
 - LinkedIn: [samuelsafe](https://www.linkedin.com/in/samuelsafe/)
