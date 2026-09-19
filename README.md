@@ -2,7 +2,7 @@
 
  Estudante de Engenharia de Software (3º/8º período)
  Back-end Dev em formação
- Buscando oportunidade de estágio na área de programação
+ Buscando oportunidade de estágio na área de programação ou correlatas
 
 ##  Stack
 
